@@ -5,7 +5,7 @@ from __future__ import division
 """
 Created on Sat Nov 26 09:44:13 2016
 @author: densonsmith
-I started with the code from a Kaggle 3rd place finisher. The 1st and 2nd place
+I started with the code from a Kaggle 17th place finisher. The higher
 finishers were only very slightly better on the holdout set and had much more
 complex solutions that might not have performed better on a different test set
 and certainly would not have generalized to most other problem domains.
